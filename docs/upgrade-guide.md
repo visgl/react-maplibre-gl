@@ -19,7 +19,7 @@ The following Mapbox-only props from `react-map-gl`'s Map component are removed:
 - `workerClass`
 - `baseApiUrl`
 
-### Removed default for `RTLTextPlugin`
+### Explicitly set `RTLTextPlugin` (if needed)
 
 The default `RTLTextPlugin` loaded from mapbox.com has been removed.
 To keep the previous behavior, specify the `pluginUrl` which was previously used or supply the plugin from any other source:

@@ -495,6 +495,8 @@ Note that since some map options cannot be modified after initialization, when r
 
 #### `RTLTextPlugin`: object {#rtltextplugin}
 
+Default: `undefined`
+
 - `pluginUrl`: `string` URL to the plugin JS file.
 - `lazy`: `boolean` When true, the plugin is only loaded when the map first encounters Hebrew or Arabic text. Default `true`.
 
