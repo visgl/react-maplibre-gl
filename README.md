@@ -1,13 +1,4 @@
-<p align="right">
-  <a href="https://npmjs.org/package/@vis.gl/react-maplibre">
-    <img src="https://img.shields.io/npm/v/@vis.gl/react-maplibre.svg?style=flat-square" alt="version" />
-  </a>
-  <a href="https://github.com/visgl/react-maplibre/actions?query=workflow%3Atest+branch%3Amaster">
-    <img src="https://github.com/visgl/react-map-gl/workflows/test/badge.svg?branch=master" alt="build" />
-  <a href="https://npmjs.org/package/@vis.gl/react-maplibre">
-    <img src="https://img.shields.io/npm/dm/@vis.gl/react-maplibre.svg?style=flat-square" alt="downloads" />
-  </a>
-</p>
+> The source code of this module has been consolidated into the [react-map-gl](https://github.com/visgl/react-map-gl) repo, where the latest release are published from. Please report issues and open PRs there.
 
 <h1 align="center">react-maplibre | <a href="https://visgl.github.io/react-maplibre">Docs</a></h1>
 
